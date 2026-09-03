@@ -39,7 +39,7 @@ Suhu < 28°C
 
 | Komponen  | Pin ESP32 |
 |-----------|-----------|
-| DHT22     | GPIO 4    |
+| DHT11     | GPIO 4    |
 | Relay     | GPIO 26   |
 
 ## Source Code
@@ -47,10 +47,10 @@ Suhu < 28°C
 ```cpp
 #include <DHT.h>
 
-// Pin DHT22
+// Pin DHT11
 #define DHTPIN 4
 // Jenis sensor
-#define DHTTYPE DHT22
+#define DHTTYPE DHT11
 // Pin relay
 #define RELAYPIN 26
 
