@@ -23,7 +23,7 @@
 
 ## Tentang Repository
 
-Repository ini berisi dokumentasi lengkap dan source code untuk praktikum **Internet of Things (IoT)** pada mata kuliah Praktikum Pemrograman Sistem Embedded. Setiap modul mencakup teori, implementasi, dan hasil eksperimen dengan berbagai komponen hardware dan sensor.
+Repository ini berisi dokumentasi lengkap dan source code untuk praktikum **Internet of Things (IoT)** pada mata kuliah Praktikum Sistem Internet of Things. Setiap modul mencakup teori, implementasi, dan hasil eksperimen dengan berbagai komponen hardware dan sensor.
 
 ---
 
