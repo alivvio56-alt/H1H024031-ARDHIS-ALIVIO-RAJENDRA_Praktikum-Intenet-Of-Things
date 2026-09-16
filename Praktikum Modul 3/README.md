@@ -354,4 +354,16 @@ Nilai `15234` menunjukkan program telah berjalan sekitar **15,234 ms** sejak per
 
 Praktikum berhasil menunjukkan bahwa ESP8266 dapat melakukan komunikasi data menggunakan **HTTP dan MQTT** dengan format **JSON**. HTTP berhasil mengirim data ke endpoint pengujian dengan response code **200**, sedangkan MQTT berhasil mempublikasikan data ke broker dan menerimanya melalui MQTT Explorer. Modifikasi `millis()` menambahkan informasi waktu berjalan perangkat ke dalam data JSON.
 
+## Dokumentasi Prosesi Praktikum
+
+<img width="1280" height="722" alt="WhatsApp Image 2026-09-16 at 23 58 31 (1)" src="https://github.com/user-attachments/assets/a84eb853-8d83-4ef9-a9ec-5695bbe8a895" />
+<img width="1280" height="722" alt="WhatsApp Image 2026-09-16 at 23 58 31" src="https://github.com/user-attachments/assets/62c053e4-8d6a-4b27-8777-74962f6427c5" />
+
+## Output Percobaan 
+
+<img width="703" height="490" alt="Screenshot from 2026-09-16 11-31-59" src="https://github.com/user-attachments/assets/469ec549-b41d-4a74-8af5-ca0b655958b3" />
+<img width="1029" height="607" alt="Screenshot from 2026-09-16 11-48-17" src="https://github.com/user-attachments/assets/61b269a9-4db7-4c9d-8080-770dd73604a6" />
+
+
+
 
